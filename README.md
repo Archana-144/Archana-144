@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Archana-144
-- 👀 I’m interested in ... programming 
-- 🌱 I’m currently learning ... web development,date science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... archana.yathish@amceducation.in
-- 😄 Pronouns: ...she
-- ⚡ Fun fact: ... 
+- 👀 I’m interested in  programming 
+- 🌱 I’m currently learning  web development,date science 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me archana.yathish@amceducation.in
+
+
 
 <!---
 Archana-144/Archana-144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
