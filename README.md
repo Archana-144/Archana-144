@@ -2,7 +2,7 @@
 - 👀 I’m interested in  programming 
 - 🌱 I’m currently learning  web development,date science 
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me archana.yathish@amceducation.in
+- 📫 How to reach me archanayathish144@gmail.com
 
 
 
